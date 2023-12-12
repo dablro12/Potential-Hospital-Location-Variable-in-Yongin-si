@@ -1,5 +1,5 @@
 # Medical Location Bigdata Analysis 🏥
-# Analysis of location selection for residential areas with weak medical services at Yong-in 
+## Analysis of location selection for residential areas with weak medical services at Yong-in 
 #### Member : 최대현(PM, Data Scientist), 두현영(Data Analysist)
 #### Project execution period : 2023.09~2023.12
 #### Project Hosting : [최대현](https://www.notion.so/Bigdata-Analysis-2f8eae0f741b4e8aac4d48a2a530024a?pvs=4)
